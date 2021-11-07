@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="600" height="200" viewBox="36.36 60.39 600 200" xml:space="preserve">
+<desc>Created with Fabric.js 4.2.0</desc>
+<defs>
+</defs>
+<rect x="0" y="0" width="100%" height="100%" fill="transparent"></rect>
+<g transform="matrix(Infinity NaN NaN Infinity 0 0)" id="33720619-7f21-448f-bb24-0964bd3ed329"  >
+</g>
+<g transform="matrix(1 0 0 1 300 100)" id="421418a2-a096-4437-9e1d-1537605fd676"  >
+<rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-opacity: 0; fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  x="-300" y="-100" rx="0" ry="0" width="600" height="200" />
+</g>
+<g transform="matrix(0.91 0 0 0.91 297 109.5)" style="filter: url(#SVGID_384);" id="a4dff87d-85dd-4813-92b2-908758d99e7f"  >
+<filter id="SVGID_384" y="-38%" height="176%" x="-23%" width="146%" >
+	<feGaussianBlur in="SourceAlpha" stdDeviation="7"></feGaussianBlur>
+	<feOffset dx="-12" dy="-12" result="oBlur" ></feOffset>
+	<feFlood flood-color="rgb(193,220,216)" flood-opacity="1"/>
+	<feComposite in2="oBlur" operator="in" />
+	<feMerge>
+		<feMergeNode></feMergeNode>
+		<feMergeNode in="SourceGraphic"></feMergeNode>
+	</feMerge>
+</filter>
+		<rect opacity="0" fill="rgb(0,0,0)" x="-373.59" y="-71.19" width="747.17" height="142.38"></rect>
+		<text xml:space="preserve" font-family="Yantramanav" font-size="126" font-style="normal" font-weight="900" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(35,38,38); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-299" y="39.58" >E</tspan><tspan x="-200.44" y="39.58" >-</tspan><tspan x="-115.42" y="39.58" style="fill: rgb(211,167,108); ">S</tspan><tspan x="-9.78" y="39.58" style="fill: rgb(211,167,108); ">t</tspan><tspan x="65.34" y="39.58" style="fill: rgb(211,167,108); ">o</tspan><tspan x="163.1" y="39.58" style="fill: rgb(211,167,108); ">r</tspan><tspan x="239.01" y="39.58" style="fill: rgb(211,167,108); ">e</tspan></text>
+</g>
+</svg>

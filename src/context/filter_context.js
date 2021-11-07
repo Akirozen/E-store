@@ -1,5 +1,6 @@
 import React, { useEffect, useContext, useReducer } from 'react'
 import reducer from '../reducers/filter_reducer'
+
 import {
   LOAD_PRODUCTS,
   SET_GRIDVIEW,
