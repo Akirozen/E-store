@@ -36,7 +36,7 @@ const CheckoutForm = () => {
       )
       setClientSecret(data.clientSecret)
     } catch (error) {
-      // console.log(error.response)
+      console.log(error.response)
     }
   }
   useEffect(() => {
@@ -61,6 +61,7 @@ const CheckoutForm = () => {
       },
     },
   }
+
   const handleChange = async (event) => {
     // Listen for changes in the CardElement
     // and display any errors as the customer types their card details
